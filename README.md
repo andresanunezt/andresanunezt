@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Recent graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's.
+
+Pronouns: He/Him
+[Blog][https://andresanunezt.medium.com/[]
