@@ -23,4 +23,4 @@ Pronouns: He/Him
 
 Feel free to check out my [Blog](https://andresanunezt.medium.com).
 
-
+![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true)
