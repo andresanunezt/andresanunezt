@@ -23,4 +23,8 @@ Pronouns: He/Him
 
 Feel free to check out my [Blog](https://andresanunezt.medium.com).
 
-![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true)
+![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&exclude_repo=github-readme-stats,andresanunezt.github.io)](https://github.com/andresanunezt/github-readme-stats)
