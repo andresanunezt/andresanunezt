@@ -1,4 +1,4 @@
-### About 
+### Hey, I'm Andrés! 
 
 <!--
 **andresanunezt/andresanunezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Recent graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's.
-
 Pronouns: He/Him
 
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
-
-Feel free to check out my [Blog](https://andresanunezt.medium.com).
+Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Recent graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's.
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,5 +35,9 @@ Feel free to check out my [Blog](https://andresanunezt.medium.com).
 ![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
 
 
-
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&layout=compact)](https://github.com/andresanunezt/github-readme-stats)
+
+
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
+
+Feel free to check out my [Blog](https://andresanunezt.medium.com).
