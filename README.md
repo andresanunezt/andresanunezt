@@ -27,4 +27,4 @@ Feel free to check out my [Blog](https://andresanunezt.medium.com).
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&exclude_repo=github-readme-stats,andresanunezt.github.io)](https://github.com/andresanunezt/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&layout=compact)](https://github.com/andresanunezt/github-readme-stats)
