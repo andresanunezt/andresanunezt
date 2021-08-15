@@ -19,7 +19,7 @@ Pronouns: He/Him
 
 Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Recent graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's.
 
-
+## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
