@@ -31,13 +31,16 @@ Full Stack Developer with experience using frontend and backend technologies suc
  -->
 
 
-
+## Stats:
 ![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
 
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&layout=compact)](https://github.com/andresanunezt/github-readme-stats)
 
 
+## Contact:
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
 
-Feel free to check out my [Blog](https://andresanunezt.medium.com).
+ [Blog](https://andresanunezt.medium.com).
+ 
+ email: andresanunez98@gmail.com
