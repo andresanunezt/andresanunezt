@@ -41,6 +41,7 @@ Full Stack Developer with experience using frontend and backend technologies suc
 ## Contact:
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
 
- [Blog](https://andresanunezt.medium.com).
+ [Blog](https://andresanunezt.medium.com)
  
+
  email: andresanunez98@gmail.com
