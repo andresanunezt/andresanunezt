@@ -45,8 +45,7 @@ Full Stack Developer with experience using frontend and backend technologies suc
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
 
 
-![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
- [Blog](https://andresanunezt.medium.com) 
+[Blog](https://andresanunezt.medium.com) 
 
  
 
