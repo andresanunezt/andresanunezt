@@ -20,7 +20,7 @@ Pronouns: He/Him
 
 🌱 I’m currently learning: Algorithms and Data Structures and diving deeper into Bootstrap.
 
-Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Recent graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's.
+Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's. Currently a software engineer apprentice at Aura.
 
 ## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
