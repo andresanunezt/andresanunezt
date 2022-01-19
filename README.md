@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pronouns: He/Him
+<!-- Pronouns: He/Him
 
 
 🌱 I’m currently learning: Algorithms and Data Structures and diving deeper into Bootstrap.
 
 Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, JavaScript, and React. Graduate of Flatiron School Full Stack Software Engineer bootcamp. Experienced in developing full stack applications and working with API's. Currently a software engineer apprentice at Aura.
 
-## Technologies:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Technologies: -->
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,19 +38,20 @@ Full Stack Developer with experience using frontend and backend technologies suc
  -->
 
 
-## Stats:
-![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
+<!-- ## Stats: -->
+<!-- ![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
 
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&layout=compact)](https://github.com/andresanunezt/github-readme-stats)
 
 
 ## Contact:
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/) -->
 
 
-[Blog](https://andresanunezt.medium.com) 
+<!-- [Blog](https://andresanunezt.medium.com) 
 
  
 
- email: andresanunez98@gmail.com
+ email: andresanunez98@gmail.com -->
+ -->
