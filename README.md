@@ -42,10 +42,10 @@ Front-End Developer with entry-level experience specializing in web development,
 
 
 ## Contact:
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/) -->
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-nu%C3%B1ez-tinajero-732a51218/)
 
 
-Blog](https://andresanunezt.medium.com) 
+[Blog](https://andresanunezt.medium.com) 
 
  
 
