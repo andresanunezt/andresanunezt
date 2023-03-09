@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Pronouns: He/Him
 
 
-Front-End Developer with entry-level experience specializing in web development, user interface design, HTML, and React with a focus on accessibility and responsiveness. Currently a software engineer apprentice at Aura.
+Front-End Developer with entry-level experience specializing in web development, user interface design, HTML, and React with a focus on accessibility and responsiveness. Have been a software engineer apprentice at Aura since December 2021.
 
 ## Technologies: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
