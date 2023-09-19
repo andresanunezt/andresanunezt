@@ -33,11 +33,6 @@ Front-End Developer with entry-level experience specializing in web development,
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-
-## Stats:
-![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanunezt&show_icons=true&theme=dark)
-
-
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanunezt&layout=compact)](https://github.com/andresanunezt/github-readme-stats)
 
 
